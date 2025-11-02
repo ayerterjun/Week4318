@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: grey;
 	font-family: Georgia;
 	}
 p {
@@ -12,3 +12,8 @@ h2 {
 	color:purple;
 }
 
+#start {
+background-color:pink;
+border:solid 1px red;
+border-top-style:dotted;
+}
